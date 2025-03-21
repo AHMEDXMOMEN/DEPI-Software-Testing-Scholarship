@@ -1,17 +1,11 @@
-# DEPI-Software-Testing-Scholarship
+# DEPI- Software Testing Scholarship
 This repository hosts the final project for the Software Testing Scholarship under the Digital Egypt Pioneers Initiative (DEPI). It includes project documentation, test plans, test cases, automation scripts, bug reports, and all relevant deliverables showcasing our software testing expertise.
 
-# Team members:
-> Ahmed Momen
-> Amira Emad
-> Rami El Massry
-> Maryam Gouda
-> Moaaz Mohamed
+Team Members: Ahmed Momen | Amira Emad | Rami El Massry | Maryam Gouda | Moaaz Mohamed
 
-# group name : 
-> YAT399N_ONL2_SWD6_S5
+Group name : YAT399N_ONL2_SWD6_S5
 
-# project name :
+# Project Name
 > OpenCart (E-Commerce Website)
 
 # Description
